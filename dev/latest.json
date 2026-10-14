@@ -1,0 +1,11 @@
+{
+  "version": "0.24.0",
+  "notes": "无线更新固件、App 自动更新",
+  "pub_date": "2026-10-14T23:19:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2ZCcHFDaEhoL0N6K1hRMkJXNm9Kb2Q1cVU2L2Ewc1ZkcnhycUtDSFFhOVQ2OGgrTFZoVTEra1REMUZiaUkxYy9WbnRldldGM1JieklPRmo1MjVYV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE5OTY2CWZpbGU6QUlDb21wYW5pb25fMC4yNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI0LjAKWEN3clhYZWVBdzJVRjhER1BhKzJiMjMrc2RSM3Z1ZGlsNFB5TWlEZDVvak93a2h3amtFbk1GMEliUXFkR3BlOXlsT0U4VWpiTXZsWk9KOFZhR0w3QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.24.0_x64-setup.exe"
+    }
+  }
+}
