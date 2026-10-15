@@ -1,11 +1,11 @@
 {
-  "version": "0.24.1",
-  "notes": "测试更新：App 和固件 0.24.1",
-  "pub_date": "2026-10-15T01:49:59Z",
+  "version": "0.24.2",
+  "notes": "第一个带自动更新的正式版",
+  "pub_date": "2026-10-15T01:58:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1ViZzNhMGcwRitLTlNvR1dsTkU5b2JrZENyS2dWSWhQTDFtOEp2M1RvUXZWTnRNVGhxZUthRHpsUmtOR21iSTh2SStLVGJZakJKZlhzemlEeGJSRWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI4OTk4CWZpbGU6QUlDb21wYW5pb25fMC4yNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI0LjEKV3VDanlBTU4yRXRYQWF5SEpkci9udVZaQjdTMTNmWUpGWWJlbng4eU5nbGJZOVh3OVprQmRVekh0TTM5UXpaMHNZNHliczAxdTNRM2xyMHdEdnNtQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.24.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1RDd3Riem0rd3AwdWt6cjkzMFNGd3VTWTVrNlQwU1htU2J2Z0NSM0RJalAxQzNvbUFaNDBGamZUbWxNNkFaQy81bm1rMVlZVmR6RGt5enB0bVI4MFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI5NTE3CWZpbGU6QUlDb21wYW5pb25fMC4yNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI0LjIKazhianJyTXlZYnZPQk5qa1FaUldBTmo0WWZURCtKT3JTZWNuWVVpSmRUSkxqVXRLcFdteXU1d0w1cXhQRlNOZGZxUnJmamZMa3o0QmsyenUzRlVhREE9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.24.2_x64-setup.exe"
     }
   }
 }
