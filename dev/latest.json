@@ -1,11 +1,11 @@
 {
-  "version": "0.25.0",
-  "notes": "新增相机风格编辑页：在 App 里建立、调整、导入导出相机风格，并实时预览圆屏效果（相机外设还在准备中）",
-  "pub_date": "2026-10-15T02:12:07Z",
+  "version": "0.25.1",
+  "notes": "相机风格新增「字符」效果；调色板改为单独保存，可以和任意处理风格自由搭配。新增充电上限和「这次充到 100%」开关，用电池时更省电",
+  "pub_date": "2026-10-16T02:02:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1psWW9KaFgwYWRESjhVcm9tMFpLMTlVK2hMVCtCcVQ3anpDTFhTYWhaWWc0bHo2QnFxVEJjaU5WQmo0NzBTZ1ZXUzRrZzUxeHJ0SHZoMStyS1k4QWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDMwMzI2CWZpbGU6QUlDb21wYW5pb25fMC4yNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjAKVXdIM3dsVzd6dW0vd0wxRzNHTEJ5OWM1NkZXTnNqQXV5ZEFaeGtBdmcxVlBHRmdVeER2Q0MvZGJYVUxrY2k0U1g2T21GTVA5c2hpWG11Q21jRGxmQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2VCZkdlMExYRmFDQ0RLNVQvcWxjTDgzbjBkNVZwc1dJSktjczRLclBZcVBPSTZWSU1yc2tmWjJaKzR5bjVvNzdWRk15L0pzRTEzNnJOVEd2WGtkY2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE2MTU0CWZpbGU6QUlDb21wYW5pb25fMC4yNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjEKSzV5TGEwdXBKcmlxL2tyTjhDMmt6dFZGeW1kdlJSTUszY2RFN0prMWVaOUt3TldiUlVIbzJrM2N2enVxVWFFT3ZQM09pRnloU0NYd1BmT25Ca09CQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.1_x64-setup.exe"
     }
   }
 }
