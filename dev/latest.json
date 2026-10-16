@@ -1,11 +1,11 @@
 {
-  "version": "0.25.1",
-  "notes": "相机风格新增「字符」效果；调色板改为单独保存，可以和任意处理风格自由搭配。新增充电上限和「这次充到 100%」开关，用电池时更省电",
-  "pub_date": "2026-10-16T02:02:35Z",
+  "version": "0.25.2",
+  "notes": "相机风格新增图层：格子材质（拼豆、乐高、十字绣、LED、网点）、圆屏变换（万花筒、小星球、极坐标格子）、时间效果（切片、残影、只给动的东西上色），以及 5 个新预设。",
+  "pub_date": "2026-10-16T22:47:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2VCZkdlMExYRmFDQ0RLNVQvcWxjTDgzbjBkNVZwc1dJSktjczRLclBZcVBPSTZWSU1yc2tmWjJaKzR5bjVvNzdWRk15L0pzRTEzNnJOVEd2WGtkY2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTE2MTU0CWZpbGU6QUlDb21wYW5pb25fMC4yNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjEKSzV5TGEwdXBKcmlxL2tyTjhDMmt6dFZGeW1kdlJSTUszY2RFN0prMWVaOUt3TldiUlVIbzJrM2N2enVxVWFFT3ZQM09pRnloU0NYd1BmT25Ca09CQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1hkTi81bWRBZFd5THN1VUFlbE5yOUdlYzNSdUR6VmJha1JWbDFNRXVqZTJPVUFUYTlPZzlDZ3VVVFM1RHZIR1ZaRjh6UU9tbEo1d2t4QkFqSFMvS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkwODU5CWZpbGU6QUlDb21wYW5pb25fMC4yNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjIKQjZvd0MxbVRDTHBVeVBDZzhUUy9HMUF0alZjeFd3NUl6WU92ejJqM3dLWnRUTEk3ckR3WEhSaHhwSEVrU3FLdHRnSnFUZXphRVZEWWpqOUJ2NGJJQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.2_x64-setup.exe"
     }
   }
 }
