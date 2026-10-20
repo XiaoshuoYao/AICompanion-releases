@@ -1,11 +1,11 @@
 {
-  "version": "0.25.3",
-  "notes": "相机：风格和调色板按拖动的顺序放到相机上（就是手表上滑动的顺序），每项显示有没有同步到；相机模式、拍照存到电脑、相册；手表会把相机固件推给相机。",
-  "pub_date": "2026-10-20T06:36:57Z",
+  "version": "0.25.4",
+  "notes": "相机：风格和调色板按拖动的顺序放到相机上（就是手表上滑动的顺序），可以直接新建；相机模式、拍照存到电脑、相册；手表会把相机固件推给相机。界面去掉了操作后的确认和说明文字。",
+  "pub_date": "2026-10-20T06:52:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1U0YngraFpSdEd3dlA1YWVNeUMxZzhwSkFtOEM0TnpXSzFqS1NvZ1hiejA1SHdaTytaQnBZRmtHWmxnK0lmYzBycUdGUTBtZVl6MXZvSFBMMXdEYUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc4MjE1CWZpbGU6QUlDb21wYW5pb25fMC4yNS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjMKalBCcTRremxTYklUdnVPZVlmMEo5TWNyM3IzRktwTk04WHZETFYvYmhvT0dURGlrcW10Z1k1ZWUxTDk2bSsrR2swVXZuSDdTNk9DMGZ0RmM4VmZaQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2FUelE2Y2Vxc05takRrN0w2cEhkQml1Wjl1TFZ3bU9HK2wrSDNQYUh4YURRSkVWR3crMTFPZWFDUmo0VU9LZUtFK25idEYrTEk3WUFZbDdqYUNvTGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc5MTIxCWZpbGU6QUlDb21wYW5pb25fMC4yNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjQKS1UzYnFmSEVpaFQ3TWloY1RaWFVOYkRhY1d0WFhoSHJnQjdKWHUrWWM2TTJBdmRISEh4eVBjMzBDZkEwaDVVbFhJSHQreThWcUhXVWFoclNKMWFZQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.4_x64-setup.exe"
     }
   }
 }
