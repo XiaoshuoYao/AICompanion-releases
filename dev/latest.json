@@ -1,11 +1,11 @@
 {
-  "version": "0.25.4",
-  "notes": "相机：风格和调色板按拖动的顺序放到相机上（就是手表上滑动的顺序），可以直接新建；相机模式、拍照存到电脑、相册；手表会把相机固件推给相机。界面去掉了操作后的确认和说明文字。",
-  "pub_date": "2026-10-20T06:52:03Z",
+  "version": "0.25.5",
+  "notes": "相机新风格：版画、剪纸两种效果，故障（时间图层）和老电视（材质，任何格数都能用），新增 5 个预设",
+  "pub_date": "2026-10-21T00:55:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2FUelE2Y2Vxc05takRrN0w2cEhkQml1Wjl1TFZ3bU9HK2wrSDNQYUh4YURRSkVWR3crMTFPZWFDUmo0VU9LZUtFK25idEYrTEk3WUFZbDdqYUNvTGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc5MTIxCWZpbGU6QUlDb21wYW5pb25fMC4yNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjQKS1UzYnFmSEVpaFQ3TWloY1RaWFVOYkRhY1d0WFhoSHJnQjdKWHUrWWM2TTJBdmRISEh4eVBjMzBDZkEwaDVVbFhJSHQreThWcUhXVWFoclNKMWFZQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1duQXIxR25MQTFIQ1dZVjUxSGN2d21RMUFDdjNFSEJzaEY4NEt5aExtVytpZElDSXNXRmVNaU9CSFRLekIyRS93U2wyRWlGRXdPbEJoc3dTMXhLMmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQ0MTM1CWZpbGU6QUlDb21wYW5pb25fMC4yNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjUKY25Jd0JRcW9nVlV1SWtmNWt6dHJ4ayttQUt3dEczaVhESnNud2pab0Y3NjVsZzhnVVB2dWlhMjc2WDJNMk5acndCaVgwV1ZYU2pZc1pxeVVBWmJ4Qmc9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.5_x64-setup.exe"
     }
   }
 }
