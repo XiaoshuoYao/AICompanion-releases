@@ -1,11 +1,11 @@
 {
-  "version": "0.25.5",
-  "notes": "相机新风格：版画、剪纸两种效果，故障（时间图层）和老电视（材质，任何格数都能用），新增 5 个预设",
-  "pub_date": "2026-10-21T00:55:37Z",
+  "version": "0.25.6",
+  "notes": "后台 Agent 还在跑时，主回复结束不再放完成庆祝，改为空闲；全部做完才庆祝",
+  "pub_date": "2026-10-23T06:13:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1duQXIxR25MQTFIQ1dZVjUxSGN2d21RMUFDdjNFSEJzaEY4NEt5aExtVytpZElDSXNXRmVNaU9CSFRLekIyRS93U2wyRWlGRXdPbEJoc3dTMXhLMmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQ0MTM1CWZpbGU6QUlDb21wYW5pb25fMC4yNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjUKY25Jd0JRcW9nVlV1SWtmNWt6dHJ4ayttQUt3dEczaVhESnNud2pab0Y3NjVsZzhnVVB2dWlhMjc2WDJNMk5acndCaVgwV1ZYU2pZc1pxeVVBWmJ4Qmc9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1RXaWhVTFhoMkF1SXJONDhuZFkzTkQrVlVEZmd2SjVuejFuWEZKUUpZbFlCbFQ2b01uT3NBNktMdldmUmY2T1pBSU5vT096ZmVubUVYaE5nREkrY2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM2MDE3CWZpbGU6QUlDb21wYW5pb25fMC4yNS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjYKODkvczJiaytobU1YY243azZ1TjQ3Q3lIRkdLTWxjTGVmK0Eyc3o5QnJkbXg4NFU2bEdMelJFblVKVDY1eHNFcEdya2djMVQ3MWt4S0gwdjhOWWRNRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.6_x64-setup.exe"
     }
   }
 }
