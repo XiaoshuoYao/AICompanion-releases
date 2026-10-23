@@ -1,11 +1,11 @@
 {
-  "version": "0.25.6",
-  "notes": "后台 Agent 还在跑时，主回复结束不再放完成庆祝，改为空闲；全部做完才庆祝",
-  "pub_date": "2026-10-23T06:13:39Z",
+  "version": "0.25.7",
+  "notes": "相机取景更流畅：帧压缩、更快的 Port A 速率（失败自动回到 921600）、解码即请求下一帧；相机固件 0.2.0 会通过手表自动推送",
+  "pub_date": "2026-10-23T07:32:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1RXaWhVTFhoMkF1SXJONDhuZFkzTkQrVlVEZmd2SjVuejFuWEZKUUpZbFlCbFQ2b01uT3NBNktMdldmUmY2T1pBSU5vT096ZmVubUVYaE5nREkrY2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM2MDE3CWZpbGU6QUlDb21wYW5pb25fMC4yNS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjYKODkvczJiaytobU1YY243azZ1TjQ3Q3lIRkdLTWxjTGVmK0Eyc3o5QnJkbXg4NFU2bEdMelJFblVKVDY1eHNFcEdya2djMVQ3MWt4S0gwdjhOWWRNRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1JtcFBRMkdMZkFZNEh3NGtGNEJzd2pPL2JaWWZLUHE1Q3FHMXhvWU9GQ0xBNjVUeDJFZzRaeDVXN0FuNHRTVE9BMDE1a1JMWE1RUWRQQk9jc1AvekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQwNzQ1CWZpbGU6QUlDb21wYW5pb25fMC4yNS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjI1LjcKRWt6TTI5d20vVUdjNXN1WWJNQVVqOVVNd3Jrc1h1VlluZ011QnVFL2w3c3hJOUpJY1Z6K214ZjVrU0dhdFFDWGEySzAyVmJVelJCaFhwTGhMamhQQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/AICompanion_0.25.7_x64-setup.exe"
     }
   }
 }
