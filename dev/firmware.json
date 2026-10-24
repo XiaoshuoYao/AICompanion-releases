@@ -1,11 +1,11 @@
 {
-  "version": "0.25.8",
-  "sha256": "fda944b269a78cb23497685b7e2adc97c113708daf147a8e875dd942c47995b1",
+  "version": "0.25.9",
+  "sha256": "8a9d69ee2db86c555203518cd3318e58769aa601925374424f9e300e051ebb4b",
   "size": 3480832,
   "min_app": "0.26.0",
-  "source": "44e86a442b0c2c442b2a20f8114efa93bd66c266",
-  "notes": "固件可以单独更新了：以后只改固件时不用再更新 App，App 会自己下载新固件并在设置页提示刷写。",
-  "pub_date": "2026-10-24T01:49:47Z",
-  "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/aicompanion-firmware-0.25.8.bin",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a1l5eDcyam1SQ01sMWk4ZUJUeVZMdFJWUnZ2Y1hHMUdyeWtCK3FSby9IM1E1MkdhbklwbjBLRmIxQkRhTzMzT1N3WW5ML2o0SjJRNmJxRm9la21wd2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA2NTg2CWZpbGU6YWljb21wYW5pb24tZmlybXdhcmUtMC4yNS44LmJpbgpHMU0wOWpGVmdoNmp2LzBIcDMveEpRNStZR3FqOGp0bTdJdGJPZ2FpOFRBRXhhN1Y1WVRiK09naXFOUnFFZWxWeWU5Sk1reStRYWhZcG1UWmZRRXRBZz09Cg=="
+  "source": "5885e983e72afb2cc6f78c69cad0184b42370dcb",
+  "notes": "测试固件单独更新：只换固件版本号，功能和 0.25.8 一样。",
+  "pub_date": "2026-10-24T08:03:41Z",
+  "url": "https://raw.githubusercontent.com/XiaoshuoYao/AICompanion-releases/HEAD/files/aicompanion-firmware-0.25.9.bin",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM1RycFR0d3h3a2JRL3R0N0ZJS3NKM2Z6cnZHZUkyTTVXU3JGU3BFa1kyT2dNVXJqRGIvSzMxUzdYUnZnb0dXRGpVK05zMnI4VlBHU3ZwQTRzTjQ4WCtBVy9mK0hoRXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODI5MDIxCWZpbGU6YWljb21wYW5pb24tZmlybXdhcmUtMC4yNS45LmJpbgplMlNqUy9TMjNtYTdNNk1oMWJBek1HY3BsMmM3dTIxZXIwcnhyeE82Q1hqSEZIRXBvN3FlV0U5UU0yZmIrb3hJYnZCdngrWGk1SkZKNXZDYkFRYWNDZz09Cg=="
 }
